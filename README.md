@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @XavierTheAnalyst
 - 👀 I’m interested in using data to solve problems
 - 🌱 I’m currently working on my Data analyst skills
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at XavierPierrce@gmail.com
 
 <!---
